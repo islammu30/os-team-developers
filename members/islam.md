@@ -1,4 +1,4 @@
 # Islam
 
 - Learning Software Development
-- Interested Version Control
+- Interested in Version Control
