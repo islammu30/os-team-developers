@@ -1,1 +1,1 @@
-# mmi-developers
+# os-team-developers
