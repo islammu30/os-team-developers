@@ -1,5 +1,5 @@
 # Team Members
 
-- Islam
-- Mena
+- Islam Muhammad
+- Mena 
 - Mostafa
